@@ -48,7 +48,7 @@
          } 
       </style> 
    </head> 
-   <!-- create table -->
+   <!-- create table for-->
    <body> 
       <div class = title >simple Calculator</div> 
       <table border="1"> 
